@@ -32,6 +32,7 @@ These lists are composed of projects that publicly announced their interest in u
 
 * [Amadeus](https://amadeusrelay.org)
 * [Bamboo Relay](https://www.bamboorelay.com/)
+* [EtherBlockchain.io](https://etherblockchain.io)
 * [ERC dEX](https://ercdex.com)
 * [Ethfinex](https://www.ethfinex.com/)
 * [Instex](https://app.instex.io/)

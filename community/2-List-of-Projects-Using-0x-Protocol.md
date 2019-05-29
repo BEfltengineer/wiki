@@ -49,4 +49,5 @@ These lists are composed of projects that publicly announced their interest in u
 
 ### List of 0x trade explorers
 
+* [EtherBlockchain.io Block & Trade Explorer](https://etherblockchain.io/blockchain/blocks)
 * [0x Tracker](https://0xtracker.com)
